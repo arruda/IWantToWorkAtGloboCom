@@ -6,6 +6,7 @@ Vaga
 * Área de Home
 * Área de Plataformas Sociais
 
+
 CV
 ==
 
@@ -13,6 +14,7 @@ CV
 * **Idade:** 22 anos
 * **email:** contato@arruda.blog.br
 * **blog:** http://arruda.blog.br
+* **LinkedIn:** http://br.linkedin.com/pub/felipe-pontes/3b/a2b/b9
 
 Objetivo Profissional:
 ----------------------
@@ -25,6 +27,10 @@ Formação Acadêmica:
 
 * **Graduação:** Bacharelado em Sistema de Informação (UNIRIO) – Cursando
 * **Técnico:** Administração (Fundação Osório) - 2005-2007
+
+Idiomas:
+--------
+Inglês Fluente
 
 Conhecimentos:
 --------------
@@ -42,6 +48,15 @@ Conhecimentos:
 * Softwares Gerenciadores de Projetos
  * Trac
  * Redmine
+* C/C++
+* Deploy de Aplicações
+  * Heroku
+    * Django
+    * Flask
+  * Apache
+    * WSGI
+  * Nginx
+    * FastCGI
 
 Noções:
 ------
@@ -51,6 +66,7 @@ Noções:
 * Lógica Fuzzy
 * Redes Neurais
 * PHP
+* ShellScript
 
 Portfólio
 =========
@@ -93,4 +109,28 @@ Super Duper Project Manager
 * **Link:** https://github.com/Uniriotec/SDPM
 * **OBS:**Ainda em desenvolvimento pela [Uniriotec](https://github.com/Uniriotec)
 
+Histórico Profissional:
+======================
 
+* **Empresa**: Uniriotec Consultoria Em TI
+* **Cargo:** Membro
+  * **Período:** Maio/2010 - Março/2011
+* **Cargo:** Diretor de Projetos
+  * **Período:** Março/2011 - Março/2012
+* **Cargo:** Diretor Presidente
+  * **Período:** Março/2012 - Setembro/2012
+
+-------------------------
+* **Empresa**: UNIRIO
+* **Período:** Fevereiro/2011 - Outubro/2011
+* **Cargo:** Monitor
+
+-------------------------
+* **Empresa**: Sparkit
+* **Período:** Setembro/2011 - Março/2012
+* **Cargo:** Estagiário
+
+-------------------------
+* **Empresa**: Instituto Nacional de Tecnologia
+* **Período:** Julho/2010 - Setembro/2011 e Março/2012 - Outubro/2012
+* **Cargo:** Bolsista
