@@ -9,9 +9,11 @@ Vaga
 CV
 ==
 
-Nome: Felipe Arruda Pontes
-Idade: 22 anos
-email: contato@arruda.blog.br
+**Nome:** Felipe Arruda Pontes
+
+**Idade:** 22 anos
+
+**email:** contato@arruda.blog.br
 
 Objetivo Profissional:
 ----------------------
