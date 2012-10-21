@@ -109,6 +109,12 @@ Super Duper Project Manager
 * **Link:** https://github.com/Uniriotec/SDPM
 * **OBS:**Ainda em desenvolvimento pela [Uniriotec](https://github.com/Uniriotec)
 
+Reader's Must Read
+--------------------------
+* **Descrição**: Um sistema simples para contontrolar a compra dos livros mais desejados.
+* **Link:** https://github.com/arruda/rmr
+* **OBS:**Ainda em desenvolvimento.
+
 Histórico Profissional:
 ======================
 
