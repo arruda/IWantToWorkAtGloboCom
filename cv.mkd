@@ -12,9 +12,85 @@ CV
 * **Nome:** Felipe Arruda Pontes
 * **Idade:** 22 anos
 * **email:** contato@arruda.blog.br
+* **blog:** http://arruda.blog.br
 
 Objetivo Profissional:
 ----------------------
 
-Atuar como desenvolvedor de softwares, preferencialmente em Django ou Java, possibilitando um maior aprendizado nas novas tecnologias do mercado.
+Atuar como desenvolvedor de softwares, preferencialmente em Django,
+possibilitando um maior aprendizado nas novas tecnologias do mercado e criação de novas soluções tecnológicas. 
+
+Formação Acadêmica:
+-------------------
+
+* **Graduação:** Bacharelado em Sistema de Informação (UNIRIO) – Cursando
+* **Técnico:** Administração (Fundação Osório) - 2005-2007
+
+Conhecimentos:
+--------------
+
+* Python
+  * Django
+  * Flask
+* Java
+  * Play! Framework(2.0)
+  * Struts
+  * JFS 
+* HTML
+* CSS
+* JavaScript
+* Softwares Gerenciadores de Projetos
+ * Trac
+ * Redmine
+
+Noções:
+------
+* Node
+  * Express
+  * Mongoose
+* Lógica Fuzzy
+* Redes Neurais
+* PHP
+
+Portfólio
+=========
+
+Django Structurer
+-----------------
+* **Descrição**: Possibilita a criação de uma estrutura customizada de projetos Django.
+* **Link:** https://github.com/arruda/django-structurer
+
+Venv-Dependencies
+-----------------
+* **Descrição**: Maneira mais simples de linkar(criar links simbólicos) dependencias em um ambiente virtual python.
+* **Link:** https://github.com/arruda/venv-dependencies
+
+Beerblogging
+------------
+* **Descrição**: Agregador de Feeds de bloggers e base para alguns experimentos.
+* **Link:** https://github.com/arruda/beerblogging
+
+AMAO
+--------------------------
+* **Descrição**: Um sistema web para aplicação e correção automatica de avaliações de programação.
+* **OBS:** A aplicação tem acesso restrito para apenas alguns professores da UNIRIO.
+
+Prova Essa
+----------
+* **Descrição**: Desenvolvimento de e-commerce para assinatura de cervejas especiais. 
+* **Link:** http://www.provaessa.com.br/
+* **OBS:**Feito na [Sparkit](http://www.sparkit.com.br/)
+
+e-Cereal
+----------
+* **Descrição**: Desenvolvimento de plataforma completa de venda cereais customizados.
+* **Link:** http://www.provaessa.com.br/
+* **OBS:**Feito na [Sparkit](http://www.sparkit.com.br/)
+
+Super Duper Project Manager
+--------------------------
+* **Descrição**: Um sistema simples para gerenciar projetos e finanças.
+* **Link:** https://github.com/Uniriotec/SDPM
+* **OBS:**Ainda em desenvolvimento pela [Uniriotec](https://github.com/Uniriotec)
+
 
